@@ -1,0 +1,28 @@
+Initial Player 1: 5D, TD, 4H, 5H
+Initial Player 2: 9C, JC, AH, 3H
+Player 1
+	Added: 9H
+	Discarded: 9H
+	Hand now: 5D, TD, 4H, 5H, 
+	Discarded: 4H
+Player 2
+	Added: 2D
+	Discarded: JC
+	Hand now: 9C, 2D, AH, 3H, 
+	Discarded: 2D
+	Hand now: 9C, AH, 3H, 
+	Discarded: 9C
+Player 1
+	Added: 9C
+	Discarded: 9C
+Player 2
+	Added: 9C
+	Discarded: AH
+	Hand now: 9C, 3H, 
+	Discarded: 9C
+	Hand now: 3H, 
+	Discarded: 3H
+	Hand now: EMPTY
+Player 2 doesn't have any more cards in their hand...
+Points: 20 to 0
+Player 2 Wins!
